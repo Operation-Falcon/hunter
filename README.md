@@ -13,7 +13,7 @@ Install my-project with git
 
 ```
 
-git clone https://github.com/Deepanjalkumar/hunter.git
+git clone https://github.com/Operation-Falcon/hunter.git
 
 cd hunter
 
