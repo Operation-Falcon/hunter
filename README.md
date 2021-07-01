@@ -64,7 +64,7 @@ For support, contact me over linkeding Deepanjal kumar
   
 ## API Reference
 
-- [SecurityTrails](http://securitytrails.com)
+- [Hunter.io](https://hunter.io/)
 
   
 ## Authors
